@@ -1,0 +1,34 @@
+{
+  "files": [
+    {
+      "path": "project-context/initial_analysis.md",
+      "summary": "Početna analiza i feasibility studija projekta, uključujući osnovne ciljeve i plan implementacije.",
+      "date": "2025-10-06",
+      "tags": ["analysis", "feasibility", "planning"]
+    },
+    {
+      "path": "project-context/progress_update_20251006.md",
+      "summary": "Detaljan update napretka projekta, strukture repozitorijuma i ključnih komponenti.",
+      "date": "2025-10-06",
+      "tags": ["progress", "updates", "structure"]
+    },
+    {
+      "path": "project-context/ai_communication_hub_summary.md",
+      "summary": "Sumarizacija glavnih ciljeva i funkcionalnosti AI Communication Hub-a.",
+      "date": "2025-10-05",
+      "tags": ["summary", "ai_hub", "objectives"]
+    },
+    {
+      "path": "project-context/email_automation_feasibility_study.md",
+      "summary": "Analiza izvodljivosti automatizacije email procesa i integracija sa AI modulima.",
+      "date": "2025-10-04",
+      "tags": ["email", "automation", "feasibility"]
+    },
+    {
+      "path": "project-context/unified_messaging_system_sumarization.md",
+      "summary": "Pregled Unified Messaging System-a i preporuke za implementaciju AI adaptera.",
+      "date": "2025-10-03",
+      "tags": ["messaging", "system", "recommendations"]
+    }
+  ]
+}
