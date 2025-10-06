@@ -1,0 +1,62 @@
+# Laravel specific
+/src/node_modules
+/src/public/build
+/src/public/hot
+/src/public/storage
+/src/storage/*.key
+/src/vendor
+/src/.phpunit.result.cache
+/src/phpstan.neon
+/src/coverage.xml
+/src/coverage
+/src/report
+/bootstrap/cache/*
+!/bootstrap/cache/.gitignore
+
+# Enviroment files
+.env
+.env.backup
+.env.production
+.phpunit.result.cache
+
+# Docker bind mount specifics
+/storage/app/public/*
+!/storage/app/public/.gitkeep
+
+# IDE specific files
+.idea
+.vscode
+*.sublime-workspace
+*.sublime-project
+nbproject
+*.iml
+*.swp
+*.swo
+
+# OS specific files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Backup files
+backups/
+*.bak
+*.backup
+*.old
+
+# Log files
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Cache files
+.cache/
+.temp/
+.hotreload/
+
+# Composer
+composer.phar
+
+# SSL certificates
+ssl/
